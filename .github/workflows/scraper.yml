@@ -1,0 +1,35 @@
+name: Détecteur de logement
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # toutes les 15 minutes
+  workflow_dispatch:          # permet de lancer manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write   # nécessaire pour que le workflow puisse sauvegarder l'état
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer le détecteur
+        run: python scraper.py
+
+      - name: Sauvegarder l'état pour le prochain run
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --quiet --cached || git commit -m "Mise à jour état des résidences [skip ci]"
+          git push
