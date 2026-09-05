@@ -1,0 +1,98 @@
+{
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-pablo-picasso-2/": {
+    "title": "Fac-Habitat Picasso",
+    "available": true,
+    "status": "Dispo immédiate",
+    "price": "473"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-leo-ferre/": {
+    "title": "Fac-Habitat Léo Ferre",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "318"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-les-hauts-bois/": {
+    "title": "Fac-Habitat Les Hauts Bois",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "483"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
+    "title": "Fac-Habitat Fourmont",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "480"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-mis-pour-jeunes-actifs/": {
+    "title": "Fac-Habitat MIS pour jeunes actifs",
+    "available": false,
+    "status": "Complet",
+    "price": "441"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-le-studio/": {
+    "title": "Fac-Habitat Le Studio",
+    "available": false,
+    "status": "Complet",
+    "price": "477"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-hortense-wild/": {
+    "title": "Fac-Habitat Hortense Wild",
+    "available": false,
+    "status": "Complet",
+    "price": "467"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-adelaide/": {
+    "title": "Fac-Habitat Adélaïde",
+    "available": false,
+    "status": "Complet",
+    "price": "469"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-maximilien-perret/": {
+    "title": "Fac-Habitat Maximilien Perret",
+    "available": false,
+    "status": "Complet",
+    "price": "465"
+  },
+  "https://logement.smerra.fr/residence-etudiante/erwin-guldner/": {
+    "title": "Fac-Habitat Erwin Guldner",
+    "available": false,
+    "status": "Complet",
+    "price": "465"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-pablo-picasso/": {
+    "title": "Fac-Habitat Pablo Picasso",
+    "available": false,
+    "status": "Complet",
+    "price": "329"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-gainsbourg/": {
+    "title": "Fac-Habitat Gainsbourg",
+    "available": false,
+    "status": "Complet",
+    "price": "404"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-ecrivains/": {
+    "title": "Fac-Habitat Ecrivains",
+    "available": false,
+    "status": "Complet",
+    "price": "464"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-belle-isle/": {
+    "title": "Fac-Habitat Belle Isle",
+    "available": false,
+    "status": "Complet",
+    "price": "487"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
+    "title": "Fac-Habitat Compas",
+    "available": false,
+    "status": "Complet",
+    "price": "418"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-francois-huber/": {
+    "title": "Fac-Habitat François Huber",
+    "available": false,
+    "status": "Complet",
+    "price": "458"
+  }
+}
