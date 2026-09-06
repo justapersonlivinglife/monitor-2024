@@ -32,7 +32,15 @@ Astuce pour trouver ces sélecteurs : F12 sur la page > clic sur une annonce
 avec l'outil "inspecter" > repère la classe CSS qui se répète pour chaque annonce.
 """
 
-NTFY_TOPIC = "https://ntfy.sh/logement-alerte-x7k2p9"  # <-- remplace par TON topic
+import os
+
+NTFY_TOPIC = os.environ.get("NTFY_TOPIC")
+if not NTFY_TOPIC:
+    raise RuntimeError(
+        "NTFY_TOPIC n'est pas défini. En local : mets-le en variable "
+        "d'environnement. Sur GitHub Actions : ajoute un secret nommé "
+        "NTFY_TOPIC dans Settings > Secrets and variables > Actions."
+    )
 
 SITES = [
     {
