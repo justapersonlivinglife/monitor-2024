@@ -1,8 +1,8 @@
-name: Détecteur de logement
+name: Scheduled check
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # toutes les 15 minutes
+    - cron: '* * * * *'     # toutes les minutes
   workflow_dispatch:          # permet de lancer manuellement depuis l'onglet Actions
 
 permissions:
@@ -24,6 +24,8 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Lancer le détecteur
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python scraper.py
 
       - name: Sauvegarder l'état pour le prochain run
