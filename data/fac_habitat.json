@@ -5,18 +5,6 @@
     "status": "Dispo immédiate",
     "price": "473"
   },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-leo-ferre/": {
-    "title": "Fac-Habitat Léo Ferre",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "318"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-les-hauts-bois/": {
-    "title": "Fac-Habitat Les Hauts Bois",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "483"
-  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
     "title": "Fac-Habitat Fourmont",
     "available": true,
@@ -71,6 +59,12 @@
     "status": "Complet",
     "price": "404"
   },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-leo-ferre/": {
+    "title": "Fac-Habitat Léo Ferre",
+    "available": false,
+    "status": "Complet",
+    "price": "318"
+  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-ecrivains/": {
     "title": "Fac-Habitat Ecrivains",
     "available": false,
@@ -82,6 +76,12 @@
     "available": false,
     "status": "Complet",
     "price": "487"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-les-hauts-bois/": {
+    "title": "Fac-Habitat Les Hauts Bois",
+    "available": false,
+    "status": "Complet",
+    "price": "483"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
     "title": "Fac-Habitat Compas",
