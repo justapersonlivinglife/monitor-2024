@@ -139,7 +139,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=799G": {
     "title": "Neuilly-Plaisance - Gallieni 2",
-    "available": true,
+    "available": false,
     "status": null,
     "price": null
   },
