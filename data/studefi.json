@@ -115,7 +115,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=787G": {
     "title": "Montigny-le-Bretonneux - Blaise Pascal",
-    "available": false,
+    "available": true,
     "status": null,
     "price": null
   },
