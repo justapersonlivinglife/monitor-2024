@@ -109,7 +109,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=801G": {
     "title": "Massy - Océane",
-    "available": true,
+    "available": false,
     "status": null,
     "price": null
   },
