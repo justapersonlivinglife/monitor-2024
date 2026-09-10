@@ -5,6 +5,12 @@
     "status": "Dispo immédiate",
     "price": "473"
   },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-maximilien-perret/": {
+    "title": "Fac-Habitat Maximilien Perret",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "465"
+  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
     "title": "Fac-Habitat Fourmont",
     "available": true,
@@ -34,12 +40,6 @@
     "available": false,
     "status": "Complet",
     "price": "469"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-maximilien-perret/": {
-    "title": "Fac-Habitat Maximilien Perret",
-    "available": false,
-    "status": "Complet",
-    "price": "465"
   },
   "https://logement.smerra.fr/residence-etudiante/erwin-guldner/": {
     "title": "Fac-Habitat Erwin Guldner",
