@@ -11,11 +11,11 @@
     "status": "Dispo à venir",
     "price": "467"
   },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-maximilien-perret/": {
-    "title": "Fac-Habitat Maximilien Perret",
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
+    "title": "Fac-Habitat Compas",
     "available": true,
     "status": "Dispo à venir",
-    "price": "465"
+    "price": "418"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
     "title": "Fac-Habitat Fourmont",
@@ -40,6 +40,12 @@
     "available": false,
     "status": "Complet",
     "price": "469"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-maximilien-perret/": {
+    "title": "Fac-Habitat Maximilien Perret",
+    "available": false,
+    "status": "Complet",
+    "price": "465"
   },
   "https://logement.smerra.fr/residence-etudiante/erwin-guldner/": {
     "title": "Fac-Habitat Erwin Guldner",
@@ -82,12 +88,6 @@
     "available": false,
     "status": "Complet",
     "price": "483"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
-    "title": "Fac-Habitat Compas",
-    "available": false,
-    "status": "Complet",
-    "price": "418"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-francois-huber/": {
     "title": "Fac-Habitat François Huber",
