@@ -5,17 +5,11 @@
     "status": "Dispo immédiate",
     "price": "473"
   },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-hortense-wild/": {
-    "title": "Fac-Habitat Hortense Wild",
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-ecrivains/": {
+    "title": "Fac-Habitat Ecrivains",
     "available": true,
     "status": "Dispo à venir",
-    "price": "467"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
-    "title": "Fac-Habitat Compas",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "418"
+    "price": "464"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
     "title": "Fac-Habitat Fourmont",
@@ -34,6 +28,12 @@
     "available": false,
     "status": "Complet",
     "price": "477"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-hortense-wild/": {
+    "title": "Fac-Habitat Hortense Wild",
+    "available": false,
+    "status": "Complet",
+    "price": "467"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-adelaide/": {
     "title": "Fac-Habitat Adélaïde",
@@ -71,12 +71,6 @@
     "status": "Complet",
     "price": "318"
   },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-ecrivains/": {
-    "title": "Fac-Habitat Ecrivains",
-    "available": false,
-    "status": "Complet",
-    "price": "464"
-  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-belle-isle/": {
     "title": "Fac-Habitat Belle Isle",
     "available": false,
@@ -88,6 +82,12 @@
     "available": false,
     "status": "Complet",
     "price": "483"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
+    "title": "Fac-Habitat Compas",
+    "available": false,
+    "status": "Complet",
+    "price": "418"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-francois-huber/": {
     "title": "Fac-Habitat François Huber",
