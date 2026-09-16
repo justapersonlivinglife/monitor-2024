@@ -13,7 +13,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=802G": {
     "title": "Aubervilliers - Anne Franck",
-    "available": false,
+    "available": true,
     "status": null,
     "price": null
   },
