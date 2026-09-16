@@ -1,22 +1,4 @@
 {
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-pablo-picasso-2/": {
-    "title": "Fac-Habitat Picasso",
-    "available": true,
-    "status": "Dispo immédiate",
-    "price": "473"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-ecrivains/": {
-    "title": "Fac-Habitat Ecrivains",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "464"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
-    "title": "Fac-Habitat Fourmont",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "480"
-  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-mis-pour-jeunes-actifs/": {
     "title": "Fac-Habitat MIS pour jeunes actifs",
     "available": false,
@@ -71,6 +53,18 @@
     "status": "Complet",
     "price": "318"
   },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-ecrivains/": {
+    "title": "Fac-Habitat Ecrivains",
+    "available": false,
+    "status": "Complet",
+    "price": "464"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-pablo-picasso-2/": {
+    "title": "Fac-Habitat Picasso",
+    "available": false,
+    "status": "Complet",
+    "price": "473"
+  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-belle-isle/": {
     "title": "Fac-Habitat Belle Isle",
     "available": false,
@@ -88,6 +82,12 @@
     "available": false,
     "status": "Complet",
     "price": "418"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
+    "title": "Fac-Habitat Fourmont",
+    "available": false,
+    "status": "Complet",
+    "price": "480"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-francois-huber/": {
     "title": "Fac-Habitat François Huber",
