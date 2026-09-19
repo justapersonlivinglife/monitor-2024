@@ -49,7 +49,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=806G": {
     "title": "Courbevoie - Modigliani",
-    "available": true,
+    "available": false,
     "status": null,
     "price": null
   },
