@@ -175,7 +175,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=790G": {
     "title": "Ville d'Avray - Les Cantilènes",
-    "available": false,
+    "available": true,
     "status": null,
     "price": null
   },
