@@ -1,4 +1,22 @@
 {
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-gainsbourg/": {
+    "title": "Fac-Habitat Gainsbourg",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "404"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-leo-ferre/": {
+    "title": "Fac-Habitat Léo Ferre",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "318"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
+    "title": "Fac-Habitat Compas",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "418"
+  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-mis-pour-jeunes-actifs/": {
     "title": "Fac-Habitat MIS pour jeunes actifs",
     "available": false,
@@ -41,18 +59,6 @@
     "status": "Complet",
     "price": "329"
   },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-gainsbourg/": {
-    "title": "Fac-Habitat Gainsbourg",
-    "available": false,
-    "status": "Complet",
-    "price": "404"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-leo-ferre/": {
-    "title": "Fac-Habitat Léo Ferre",
-    "available": false,
-    "status": "Complet",
-    "price": "318"
-  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-ecrivains/": {
     "title": "Fac-Habitat Ecrivains",
     "available": false,
@@ -76,12 +82,6 @@
     "available": false,
     "status": "Complet",
     "price": "483"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
-    "title": "Fac-Habitat Compas",
-    "available": false,
-    "status": "Complet",
-    "price": "418"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
     "title": "Fac-Habitat Fourmont",
