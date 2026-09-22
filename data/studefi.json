@@ -31,7 +31,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=793G": {
     "title": "Aubervilliers - Roger Hanin",
-    "available": true,
+    "available": false,
     "status": null,
     "price": null
   },
