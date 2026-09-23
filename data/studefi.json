@@ -151,7 +151,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=791G": {
     "title": "Orsay - Pierre-Gilles de Gennes",
-    "available": false,
+    "available": true,
     "status": null,
     "price": null
   },
