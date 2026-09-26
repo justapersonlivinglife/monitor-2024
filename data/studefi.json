@@ -157,7 +157,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=784G": {
     "title": "Paris 18e - Résidence Évariste Galois",
-    "available": false,
+    "available": true,
     "status": null,
     "price": null
   },
