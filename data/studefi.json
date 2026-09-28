@@ -79,7 +79,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=962G": {
     "title": "Le Concorde à Dugny",
-    "available": true,
+    "available": false,
     "status": null,
     "price": null
   },
