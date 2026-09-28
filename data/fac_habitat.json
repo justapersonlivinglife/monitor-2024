@@ -1,4 +1,10 @@
 {
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-le-studio/": {
+    "title": "Fac-Habitat Le Studio",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "477"
+  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
     "title": "Fac-Habitat Compas",
     "available": true,
@@ -10,12 +16,6 @@
     "available": false,
     "status": "Complet",
     "price": "441"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-le-studio/": {
-    "title": "Fac-Habitat Le Studio",
-    "available": false,
-    "status": "Complet",
-    "price": "477"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-hortense-wild/": {
     "title": "Fac-Habitat Hortense Wild",
