@@ -43,7 +43,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=797G": {
     "title": "Cergy - Les Closbilles",
-    "available": true,
+    "available": false,
     "status": null,
     "price": null
   },
