@@ -103,7 +103,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=785G": {
     "title": "Massy - Eric Tabarly",
-    "available": false,
+    "available": true,
     "status": null,
     "price": null
   },
