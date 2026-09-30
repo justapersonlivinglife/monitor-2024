@@ -127,7 +127,7 @@
   },
   "https://www.studefi.fr/main.php?srv=Residence&op=show&cdGroupe=964G": {
     "title": "Montreuil - Résidence Andrée Michel",
-    "available": false,
+    "available": true,
     "status": null,
     "price": null
   },
