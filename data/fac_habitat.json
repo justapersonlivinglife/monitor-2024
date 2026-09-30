@@ -1,10 +1,4 @@
 {
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
-    "title": "Fac-Habitat Compas",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "418"
-  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-mis-pour-jeunes-actifs/": {
     "title": "Fac-Habitat MIS pour jeunes actifs",
     "available": false,
@@ -82,6 +76,12 @@
     "available": false,
     "status": "Complet",
     "price": "483"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
+    "title": "Fac-Habitat Compas",
+    "available": false,
+    "status": "Complet",
+    "price": "418"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
     "title": "Fac-Habitat Fourmont",
