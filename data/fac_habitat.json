@@ -11,12 +11,6 @@
     "status": "Dispo à venir",
     "price": "473"
   },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-les-hauts-bois/": {
-    "title": "Fac-Habitat Les Hauts Bois",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "483"
-  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-mis-pour-jeunes-actifs/": {
     "title": "Fac-Habitat MIS pour jeunes actifs",
     "available": false,
@@ -76,6 +70,12 @@
     "available": false,
     "status": "Complet",
     "price": "487"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-les-hauts-bois/": {
+    "title": "Fac-Habitat Les Hauts Bois",
+    "available": false,
+    "status": "Complet",
+    "price": "483"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
     "title": "Fac-Habitat Compas",
