@@ -1,21 +1,27 @@
 {
-  "https://logement.smerra.fr/residence-etudiante/erwin-guldner/": {
-    "title": "Fac-Habitat Erwin Guldner",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "465"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-ecrivains/": {
-    "title": "Fac-Habitat Ecrivains",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "464"
-  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-pablo-picasso-2/": {
     "title": "Fac-Habitat Picasso",
     "available": true,
-    "status": "Dispo à venir",
+    "status": "Dispo immédiate",
     "price": "473"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
+    "title": "Fac-Habitat Fourmont",
+    "available": true,
+    "status": "Dispo immédiate",
+    "price": "480"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-belle-isle/": {
+    "title": "Fac-Habitat Belle Isle",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "487"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
+    "title": "Fac-Habitat Compas",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "418"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-mis-pour-jeunes-actifs/": {
     "title": "Fac-Habitat MIS pour jeunes actifs",
@@ -47,6 +53,12 @@
     "status": "Complet",
     "price": "465"
   },
+  "https://logement.smerra.fr/residence-etudiante/erwin-guldner/": {
+    "title": "Fac-Habitat Erwin Guldner",
+    "available": false,
+    "status": "Complet",
+    "price": "465"
+  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-pablo-picasso/": {
     "title": "Fac-Habitat Pablo Picasso",
     "available": false,
@@ -65,29 +77,17 @@
     "status": "Complet",
     "price": "318"
   },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-belle-isle/": {
-    "title": "Fac-Habitat Belle Isle",
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-ecrivains/": {
+    "title": "Fac-Habitat Ecrivains",
     "available": false,
     "status": "Complet",
-    "price": "487"
+    "price": "464"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-les-hauts-bois/": {
     "title": "Fac-Habitat Les Hauts Bois",
     "available": false,
     "status": "Complet",
     "price": "483"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
-    "title": "Fac-Habitat Compas",
-    "available": false,
-    "status": "Complet",
-    "price": "418"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-fourmont/": {
-    "title": "Fac-Habitat Fourmont",
-    "available": false,
-    "status": "Complet",
-    "price": "480"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-francois-huber/": {
     "title": "Fac-Habitat François Huber",
