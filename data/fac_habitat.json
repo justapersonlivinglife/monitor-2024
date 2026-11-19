@@ -11,12 +11,6 @@
     "status": "Dispo immédiate",
     "price": "480"
   },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-belle-isle/": {
-    "title": "Fac-Habitat Belle Isle",
-    "available": true,
-    "status": "Dispo à venir",
-    "price": "487"
-  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-compas/": {
     "title": "Fac-Habitat Compas",
     "available": true,
@@ -82,6 +76,12 @@
     "available": false,
     "status": "Complet",
     "price": "464"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-belle-isle/": {
+    "title": "Fac-Habitat Belle Isle",
+    "available": false,
+    "status": "Complet",
+    "price": "487"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-les-hauts-bois/": {
     "title": "Fac-Habitat Les Hauts Bois",
