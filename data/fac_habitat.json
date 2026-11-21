@@ -11,6 +11,12 @@
     "status": "Dispo immédiate",
     "price": "480"
   },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-hortense-wild/": {
+    "title": "Fac-Habitat Hortense Wild",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "467"
+  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-belle-isle/": {
     "title": "Fac-Habitat Belle Isle",
     "available": true,
@@ -34,12 +40,6 @@
     "available": false,
     "status": "Complet",
     "price": "477"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-hortense-wild/": {
-    "title": "Fac-Habitat Hortense Wild",
-    "available": false,
-    "status": "Complet",
-    "price": "467"
   },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-adelaide/": {
     "title": "Fac-Habitat Adélaïde",
