@@ -17,6 +17,18 @@
     "status": "Dispo immédiate",
     "price": "480"
   },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-gainsbourg/": {
+    "title": "Fac-Habitat Gainsbourg",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "404"
+  },
+  "https://logement.smerra.fr/residence-etudiante/fac-habitat-francois-huber/": {
+    "title": "Fac-Habitat François Huber",
+    "available": true,
+    "status": "Dispo à venir",
+    "price": "458"
+  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-mis-pour-jeunes-actifs/": {
     "title": "Fac-Habitat MIS pour jeunes actifs",
     "available": false,
@@ -59,12 +71,6 @@
     "status": "Complet",
     "price": "329"
   },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-gainsbourg/": {
-    "title": "Fac-Habitat Gainsbourg",
-    "available": false,
-    "status": "Complet",
-    "price": "404"
-  },
   "https://logement.smerra.fr/residence-etudiante/fac-habitat-leo-ferre/": {
     "title": "Fac-Habitat Léo Ferre",
     "available": false,
@@ -88,11 +94,5 @@
     "available": false,
     "status": "Complet",
     "price": "483"
-  },
-  "https://logement.smerra.fr/residence-etudiante/fac-habitat-francois-huber/": {
-    "title": "Fac-Habitat François Huber",
-    "available": false,
-    "status": "Complet",
-    "price": "458"
   }
 }
